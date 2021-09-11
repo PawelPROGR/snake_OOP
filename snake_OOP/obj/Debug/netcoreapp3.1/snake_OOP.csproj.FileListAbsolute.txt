@@ -1,0 +1,13 @@
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\bin\Debug\netcoreapp3.1\snake_OOP.exe
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\bin\Debug\netcoreapp3.1\snake_OOP.deps.json
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\bin\Debug\netcoreapp3.1\snake_OOP.runtimeconfig.json
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\bin\Debug\netcoreapp3.1\snake_OOP.runtimeconfig.dev.json
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\bin\Debug\netcoreapp3.1\snake_OOP.dll
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\bin\Debug\netcoreapp3.1\snake_OOP.pdb
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\obj\Debug\netcoreapp3.1\snake_OOP.csprojAssemblyReference.cache
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\obj\Debug\netcoreapp3.1\snake_OOP.AssemblyInfoInputs.cache
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\obj\Debug\netcoreapp3.1\snake_OOP.AssemblyInfo.cs
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\obj\Debug\netcoreapp3.1\snake_OOP.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\obj\Debug\netcoreapp3.1\snake_OOP.dll
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\obj\Debug\netcoreapp3.1\snake_OOP.pdb
+C:\Users\pawel\Documents\WORK\Japanese-Janguage-project\учеба\ООП\snake_OOP\snake_OOP\obj\Debug\netcoreapp3.1\snake_OOP.genruntimeconfig.cache
